@@ -1,8 +1,0 @@
-git add readme.txt     
-git commit -m "add distributed"   
-git diff      
-git diff readme.txt     
-git init      
-git log      
-git log --pretty=oneline     
-git status      
